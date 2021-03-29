@@ -3560,7 +3560,7 @@ input[type="button"].btn--primary:focus {
 
 .s-hero__content-social a:hover, 
 .s-hero__content-social a:focus {
-    color: var(--color-2-light);
+    color: var(--color-1);
 }
 
 .s-hero__content-social a:last-child {
@@ -4240,6 +4240,7 @@ input[type="button"].btn--primary:focus {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .s-testimonials__bg::before {
@@ -4551,7 +4552,7 @@ input[type="button"].btn--primary:focus {
 
 .s-footer__social a:focus, 
 .s-footer__social a:hover {
-    color: var(--color-2);
+    color: var(--color-1);
 }
 
 .s-footer__social li {
