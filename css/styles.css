@@ -3440,7 +3440,7 @@ input[type="button"].btn--primary:focus {
 
 .s-hero__bg {
     display: block;
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -3780,6 +3780,7 @@ input[type="button"].btn--primary:focus {
     padding-top: calc(6 * var(--space));
     padding-bottom: var(--vspace-4);
     color: rgba(255, 255, 255, 0.4);
+    position: sticky;
 }
 
 .s-about h3 {
@@ -3885,6 +3886,7 @@ input[type="button"].btn--primary:focus {
     background-color: white;
     padding-top: calc(6 * var(--space));
     padding-bottom: var(--vspace-4);
+    position: sticky;
 }
 
 .s-resume__section {
@@ -3963,6 +3965,7 @@ input[type="button"].btn--primary:focus {
     background-color: var(--color-gray-1);
     padding-top: calc(6 * var(--space));
     padding-bottom: var(--vspace-5);
+    position:sticky;
 }
 
 .s-portfolio h3 {
@@ -4224,7 +4227,7 @@ input[type="button"].btn--primary:focus {
     color: rgba(255, 255, 255, 0.8);
     background-color: var(--color-gray-19);
     overflow: hidden;
-    position: relative;
+    position: sticky;
 }
 
 .s-testimonials__bg {
@@ -4512,7 +4515,7 @@ input[type="button"].btn--primary:focus {
     padding-top: var(--vspace-1);
     padding-bottom: var(--vspace-3);
     color: rgba(255, 255, 255, 0.2);
-    position: relative;
+    position: sticky;
 }
 
 .s-footer .row {
