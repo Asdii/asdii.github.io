@@ -1,5 +1,4 @@
 html, body, canvas {
-    overflow: hidden;
     margin: -500;
     padding: 0;
   }
