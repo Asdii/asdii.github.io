@@ -100,7 +100,7 @@
      * color-2(#F06000)
      */
     --color-1: hsla(182, 82%, 38%, 1);
-    --color-2: hsla(24, 100%, 47%, 1);
+    --color-2: rgb(231, 63, 12);
 
     /* theme color variations
      */
@@ -3560,7 +3560,7 @@ input[type="button"].btn--primary:focus {
 
 .s-hero__content-social a:hover, 
 .s-hero__content-social a:focus {
-    color: var(--color-1);
+    color: var(--color-2);
 }
 
 .s-hero__content-social a:last-child {
@@ -4552,7 +4552,7 @@ input[type="button"].btn--primary:focus {
 
 .s-footer__social a:focus, 
 .s-footer__social a:hover {
-    color: var(--color-1);
+    color: var(--color-2);
 }
 
 .s-footer__social li {
