@@ -3,7 +3,7 @@ const moveSpeed = 0.4;
 const moveScale = 800;
 
 function setup() {
-	createCanvas(windowWidth*2, windowHeight*2);
+	createCanvas(windowWidth, windowHeight);
 	background("#1a0633");
 	noStroke();
 	
