@@ -4224,8 +4224,6 @@ input[type="button"].btn--primary:focus {
 .s-testimonials {
     padding-top: var(--vspace-5);
     padding-bottom: var(--vspace-3_5);
-    color: rgba(255, 255, 255, 0.8);
-    background-color: var(--color-gray-19);
     overflow: hidden;
     position: sticky;
 }
@@ -4239,7 +4237,6 @@ input[type="button"].btn--primary:focus {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background-image: url(../images/testimonials-bg-3000.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -4256,7 +4253,6 @@ input[type="button"].btn--primary:focus {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background-color: var(--color-gray-19);
     opacity: .8;
 }
 
