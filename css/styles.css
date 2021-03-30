@@ -3232,11 +3232,11 @@ input[type="button"].btn--primary:focus {
     height: var(--header-height);
     line-height: var(--header-height);
     padding: 0 1.6rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgb(255, 255, 255);
 }
 
 .s-header__nav a:hover, .s-header__nav a:focus {
-    color: white;
+    color: rgb(240, 86, 39);
 }
 
 .s-header__nav .current a {
